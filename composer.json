@@ -2,6 +2,7 @@
     "name": "sadi/brevo-mailer",
     "description": "A simple Laravel package to send emails using Brevo API",
     "type": "library",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "Brevo\\SadiMailer\\": "src/"
