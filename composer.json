@@ -11,7 +11,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Sadi\\MyAwesomePackage\\MyAwesomeServiceProvider"
+                "Brevo\\SadiMailer\\EmailServiceProvider"
             ]
         }
     }
