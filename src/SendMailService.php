@@ -1,6 +1,6 @@
 <?php
 
-namespace Brevo\SadiMailer;
+namespace Sadi\BrevoMailer;
 
 use Illuminate\Support\Facades\Http;
 

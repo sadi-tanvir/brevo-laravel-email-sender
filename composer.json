@@ -5,14 +5,14 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Brevo\\SadiMailer\\": "src/"
+            "Sadi\\BrevoMailer\\": "src/"
         }
     },
     "require": {},
     "extra": {
         "laravel": {
             "providers": [
-                "Brevo\\SadiMailer\\EmailServiceProvider"
+                "Sadi\\BrevoMailer\\EmailServiceProvider"
             ]
         }
     }
