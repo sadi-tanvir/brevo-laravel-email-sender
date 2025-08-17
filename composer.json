@@ -1,5 +1,5 @@
 {
-    "name": "brevo/sadi-mailer",
+    "name": "sadi/brevo-mailer",
     "description": "A simple Laravel package to send emails using Brevo API",
     "type": "library",
     "autoload": {
